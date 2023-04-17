@@ -1,0 +1,4 @@
+node_modules/
+example/dist
+**/*.swp
+package-lock.json
