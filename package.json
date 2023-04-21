@@ -2,19 +2,20 @@
   "name": "arctic-tree",
   "version": "0.0.1",
   "description": "React-vitrualized Tree",
-  "main": "index.js",
+  "main": "lib/",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "run": "http-server example/dist"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "xerasovanon@gmail.com",
   "license": "MIT",
   "devDependencies": {
-    "http-server": "^14.1.1",
+    "@types/react": "^18.0.37",
+    "@types/react-dom": "^18.0.11",
     "typescript": "^5.0.4"
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-virtualized": "^9.22.5"
   }
 }

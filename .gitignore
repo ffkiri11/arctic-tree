@@ -1,4 +1,9 @@
 node_modules/
+lib/
 example/dist
+react-virtualized-custom/dist/
+react-virtualized-custom/src/
 **/*.swp
 package-lock.json
+react-virtualized-custom/react-virtualized
+
